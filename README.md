@@ -19,6 +19,7 @@ An education company named X Education sells online courses to industry professi
 - Lead Score Case Study.pdf : Final Presentation
 - Leads.csv : Data worked on
 - Leads Data Dictionary.xlsx : Data Dictionary
+- lead-summary-report.pdf : summary report
 
 ## Contact
 
